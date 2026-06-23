@@ -62,8 +62,7 @@ show up on GitHub.
 
 **Students who completed the setup:**
 
-- _Add your name here!_
-
+Barbara Alfaro
 ---
 
 ## How it works
